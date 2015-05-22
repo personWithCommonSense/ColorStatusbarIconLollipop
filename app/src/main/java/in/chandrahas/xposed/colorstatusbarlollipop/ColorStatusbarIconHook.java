@@ -7,9 +7,6 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 
-/**
- * Created by CHANDRAHASK on 5/20/2015.
- */
 public class ColorStatusbarIconHook implements IXposedHookLoadPackage
 {
     @Override
